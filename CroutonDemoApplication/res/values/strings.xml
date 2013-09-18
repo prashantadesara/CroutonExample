@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application identifiers -->
+    <string name="app_name">CroutonSample - Prashant Adesara</string>
+
+    <!-- User interface labels and strings -->
+    <string name="show">Show</string>
+    <string name="custom">Crouton Text - Enter your custom text.</string>
+    <string name="hint">Enter text you want to Display.</string>
+    
+    <string name="custom_title">Custom Title - Enter your custom text.</string>
+    <string name="custom_desc">Custom Message</string>
+    
+    <string name="infinite_hide">Click me to hide the infinite Crouton - Custom Text.</string>
+    <string name="display_on_top">Display on top</string>
+    
+    <string-array name="custom_arrays">
+        <item>Alert</item>
+        <item>Confirm</item>
+        <item>Info</item>
+        <item>Infinite</item>
+        <item>Custom Style</item>
+        <item>Custom View</item>
+    </string-array>
+</resources>
